@@ -1,0 +1,13 @@
+1 - This works as expected.
+
+Since the input is a regular string, the SQL executes normally and returns: No active users found with that first name. Because the user was not active.
+
+2 - This does NOT works as expected.
+the SQL executes and returns the user info, even-though the active status is 0;
+
+ 3 - This also does NOT works as expected.
+ the site returns 134.122.47.53 took too long to respond.
+ 
+ FOR GETUSERS_2.PHP
+ 
+ 1,2,3 - ALL queries worked. They all return: No active users found with that first name.
