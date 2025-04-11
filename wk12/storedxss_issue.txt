@@ -1,0 +1,15 @@
+Stored XSS Issue:
+
+The file 'storexss.php' reads and displays the content of 'storedxss.txt' directly to the web page without sanitizing or escaping it.
+
+This is a Stored Cross-Site Scripting (XSS) vulnerability.
+
+Since the script tag in 'storedxss.txt' executes when a user visits the page, an attacker could:
+- Steal cookies or session tokens.
+- Redirect users to malicious pages.
+- Perform actions on behalf of logged-in users.
+
+This vulnerability is especially dangerous because:
+- It is persistent (stored), affecting every user who views the page.
+- It can execute malicious scripts silently without user input.
+
