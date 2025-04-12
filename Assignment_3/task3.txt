@@ -1,0 +1,184 @@
+C:\Users\cezar
+λ curl.exe -G "https://www.googleapis.com/youtube/v3/search" -d "part=snippet" -d "q=SCIENCE" -d "type=video" -d "key=........UFv4Is"
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "t33NwCdF-TObHj6QwfYqHI0PklE",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "CA",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-nyaOHdEN60FHKN3zHIIcJjyjWU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8vijNPoI2Po"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-31T20:07:10Z",
+        "channelId": "UCK70H_67YRgeA513ZHA2TIg",
+        "title": "4 Cool Gifts for Science Lovers! - May Edition #shorts #Science #gifts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8vijNPoI2Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8vijNPoI2Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8vijNPoI2Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JaDropping Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-31T20:07:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C8pnIi2crhpx7CgplYfk2kuZO1A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z-R3DShHbkA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-04T12:13:13Z",
+        "channelId": "UCTn0kzSoLyz6r6H-psXmgjA",
+        "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+        "description": "EASY SCIENCE EXPERIMENTS TO DO AT HOME for kids Awesome and Amazing! They are very easy to do at HOME, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-R3DShHbkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-R3DShHbkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-R3DShHbkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fun Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-04T12:13:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bdmYmf9r5QOQOIyDU0u_ISOLsWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "29v8Da8mhF4"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-25T22:20:40Z",
+        "channelId": "UCqYlcD2MurA9YWe7D911w7A",
+        "title": "Science Experiment Fail #science #fail #bowling",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/29v8Da8mhF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/29v8Da8mhF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/29v8Da8mhF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ross Smith",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-25T22:20:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wrYKzWuloPnvu62t0GTQHc6eqAo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LX_kuBHi2yo"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-29T20:33:46Z",
+        "channelId": "UCfnuZk44VjeHQq_5IIEJAnw",
+        "title": "  The Human Nervous System!   #brain #spinalcord #humanbody #anatomy #science #teacher #education",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LX_kuBHi2yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LX_kuBHi2yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LX_kuBHi2yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nancy Bullard (Mrs. B TV)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-29T20:33:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MyL-in9DKD0GSo5g88BvJ7EfkkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ygFMACxhcX0"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-30T15:23:22Z",
+        "channelId": "UCK70H_67YRgeA513ZHA2TIg",
+        "title": "4 Cool Gifts For Science Lovers! #shorts #gifts #cool",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygFMACxhcX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygFMACxhcX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygFMACxhcX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JaDropping Science",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-30T15:23:22Z"
+      }
+    }
+  ]
+}

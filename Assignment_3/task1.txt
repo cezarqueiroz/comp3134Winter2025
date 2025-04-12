@@ -1,0 +1,29 @@
+1.
+Domain: x.com
+Cookie Name: SSID
+Cookie Value: Air8pjOThQp5N_4L9
+Cookie Path: /
+
+2.
+Domain: github.com
+Cookie Name: preferred_color_mode
+Cookie Value: dark
+Cookie Path: /
+
+3.
+Domain: google.com
+Cookie Name: APISID
+Cookie Value: MrYCpcN9-T0JbukW/AtfnZyfJHTcin9JNn
+Cookie Path: /
+
+4.
+Domain: developers.facebook.com/docs/graph-api/
+Cookie Name: xs
+Cookie Value: 23%3AWx2CmQBkpaMxHw%3A2%3A1639463263%3A-1%3A8423%3A%3AAcXxUJYbqKq7b59CXlvyV8roHZcLDWJvPQTZBrGzcAzu
+Cookie Path: /
+
+5.
+Domain: youtube.com
+Cookie Name: HSID
+Cookie Value: AVz49w5ePIToWr4q_
+Cookie Path: /

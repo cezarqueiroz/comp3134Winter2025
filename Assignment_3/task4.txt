@@ -1,0 +1,7 @@
+root@Comp3134-Winter2025-lamp-ubuntu:~# hping3 -S -s 3000 -k -p 80 -c 1000 --faster 134.122.47.53
+HPING 134.122.47.53 (eth0 134.122.47.53): S set, 40 headers + 0 data bytes
+
+--- 134.122.47.53 hping statistic ---
+1000 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+root@Comp3134-Winter2025-lamp-ubuntu:~#

@@ -1,0 +1,13 @@
+Company: Amazon
+
+Number of employees: 1,525,000 full-time and part-time employees.
+
+CEO: Andy Jassy
+
+CFO: Brian T. Oslavsky
+
+President: Andy Jassy
+
+Headquarter Locations: Seattle, Washington || Crystal City, Virginia
+
+Job Postings: Software Development Engineer I | Link: https://www.amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science
