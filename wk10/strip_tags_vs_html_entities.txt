@@ -1,0 +1,6 @@
+1 - the first one is Vulnerable to Cross-Site Scripting (XSS) attacks.
+
+If a user enters: <script>alert('Hacked!');</script>, the browser will execute the script.
+
+
+2 - The second converts special characters (like <, >, " etc.) into safe HTML entities.

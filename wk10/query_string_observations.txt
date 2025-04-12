@@ -1,0 +1,5 @@
+1 - the website offers many options of words similar and synonyms on the search bar. Then it shows a lot of information about the word and videos.
+2 - it shows no result found
+3 - It says No results found for <script>alert('hello')</script>
+4 - It says: Oops [ oops, oops ]
+The sound we make when we can’t find the page you’re looking for. We are so sorry! Please try again later!

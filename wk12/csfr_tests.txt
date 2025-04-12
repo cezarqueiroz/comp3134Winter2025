@@ -1,0 +1,13 @@
+CSRF Test Observations:
+
+Test 1 - Using csfr_form.php:
+- Form submission worked as expected.
+- If username and password were correct, login success message appeared.
+- The session token matched the hidden form token — CSRF validation passed.
+
+Test 2 - Using csfr.html:
+- Even though the username and password were correct, the request was blocked.
+- CSRF validation failed because the submitted token didn't match the session token.
+- This confirms the CSRF protection mechanism is working.
+
+Mitigation Success
