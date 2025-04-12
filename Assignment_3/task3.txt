@@ -1,8 +1,8 @@
 C:\Users\cezar
-λ curl.exe -G "https://www.googleapis.com/youtube/v3/search" -d "part=snippet" -d "q=SCIENCE" -d "type=video" -d "key=........UFv4Is"
+λ curl.exe -G "https://www.googleapis.com/youtube/v3/search" -d "part=snippet" -d "q=HAPPY" -d "type=video" -d "key=AIzaSyCzyvpdIksn77HgffTXGEpkjgi7FUFv4Is"
 {
   "kind": "youtube#searchListResponse",
-  "etag": "t33NwCdF-TObHj6QwfYqHI0PklE",
+  "etag": "W50JE7k0zjmcVhjTMrA7Q1IBZuo",
   "nextPageToken": "CAUQAA",
   "regionCode": "CA",
   "pageInfo": {
@@ -12,172 +12,172 @@ C:\Users\cezar
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "-nyaOHdEN60FHKN3zHIIcJjyjWU",
+      "etag": "ulWF3QCZNaDN63dcjeV0FElCt38",
       "id": {
         "kind": "youtube#video",
-        "videoId": "8vijNPoI2Po"
+        "videoId": "ZbZSe6N_BXs"
       },
       "snippet": {
-        "publishedAt": "2024-05-31T20:07:10Z",
-        "channelId": "UCK70H_67YRgeA513ZHA2TIg",
-        "title": "4 Cool Gifts for Science Lovers! - May Edition #shorts #Science #gifts",
-        "description": "",
+        "publishedAt": "2014-01-08T08:00:01Z",
+        "channelId": "UCtQMmwBJGvINGU0lZ_GrZKQ",
+        "title": "Pharrell Williams - Happy (Video)",
+        "description": "Official Music Video for \"Happy\" by Pharrell Williams Listen to Pharrell: https://PharrellWilliams.lnk.to/listenYD Subscribe to the ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/8vijNPoI2Po/default.jpg",
+            "url": "https://i.ytimg.com/vi/ZbZSe6N_BXs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/8vijNPoI2Po/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZbZSe6N_BXs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/8vijNPoI2Po/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ZbZSe6N_BXs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "JaDropping Science",
+        "channelTitle": "PharrellWilliamsVEVO",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-05-31T20:07:10Z"
+        "publishTime": "2014-01-08T08:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "C8pnIi2crhpx7CgplYfk2kuZO1A",
+      "etag": "o3cgcYiEy6-f0Ea2c8W7goP7meI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "z-R3DShHbkA"
+        "videoId": "itlR2CMtP5I"
       },
       "snippet": {
-        "publishedAt": "2020-05-04T12:13:13Z",
-        "channelId": "UCTn0kzSoLyz6r6H-psXmgjA",
-        "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
-        "description": "EASY SCIENCE EXPERIMENTS TO DO AT HOME for kids Awesome and Amazing! They are very easy to do at HOME, ...",
+        "publishedAt": "2024-04-18T13:00:07Z",
+        "channelId": "UCc0cGIbYYj79_IUI2A70UjQ",
+        "title": "Happy Birthday Song | BeepBeep Nursery Rhymes &amp; Kids Songs",
+        "description": "It's Birthday Time!! Joye is so exited to see the gifts and cake!! Happy Birthday Song Lyrics: Happy Birthday to you Happy Birthday ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/z-R3DShHbkA/default.jpg",
+            "url": "https://i.ytimg.com/vi/itlR2CMtP5I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/z-R3DShHbkA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/itlR2CMtP5I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/z-R3DShHbkA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/itlR2CMtP5I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Fun Science",
+        "channelTitle": "Beep Beep - Nursery Rhymes",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-05-04T12:13:13Z"
+        "publishTime": "2024-04-18T13:00:07Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "bdmYmf9r5QOQOIyDU0u_ISOLsWI",
+      "etag": "xjyU0jqvt0ROwrpqjj5fH3uodOw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "29v8Da8mhF4"
+        "videoId": "alBuSbDUSig"
       },
       "snippet": {
-        "publishedAt": "2024-09-25T22:20:40Z",
-        "channelId": "UCqYlcD2MurA9YWe7D911w7A",
-        "title": "Science Experiment Fail #science #fail #bowling",
-        "description": "",
+        "publishedAt": "2025-03-18T12:00:04Z",
+        "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+        "title": "Happy Gilmore 2 | Official Teaser Trailer | Netflix",
+        "description": "Happy Gilmore returns July 25! Watch on Netflix: https://www.netflix.com/title/81696722 About Netflix: Netflix is one of the world's ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/29v8Da8mhF4/default.jpg",
+            "url": "https://i.ytimg.com/vi/alBuSbDUSig/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/29v8Da8mhF4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/alBuSbDUSig/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/29v8Da8mhF4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/alBuSbDUSig/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Ross Smith",
+        "channelTitle": "Netflix",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-09-25T22:20:40Z"
+        "publishTime": "2025-03-18T12:00:04Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "wrYKzWuloPnvu62t0GTQHc6eqAo",
+      "etag": "HXj1y4s_MOi6YPGMRayQ-oq_9zs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "LX_kuBHi2yo"
+        "videoId": "7E5_TpWgXf8"
       },
       "snippet": {
-        "publishedAt": "2024-07-29T20:33:46Z",
-        "channelId": "UCfnuZk44VjeHQq_5IIEJAnw",
-        "title": "  The Human Nervous System!   #brain #spinalcord #humanbody #anatomy #science #teacher #education",
-        "description": "",
+        "publishedAt": "2020-06-06T21:40:05Z",
+        "channelId": "UCt0WjQfMzOpKjxyLjdHCaOg",
+        "title": "Pharrell Williams - Happy (Lyrics)",
+        "description": "PharrellWilliams #Happy #Lyrics Click My Instagram : http://www.instagram.com/abbasngeriworld/ Click My Facebook ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/LX_kuBHi2yo/default.jpg",
+            "url": "https://i.ytimg.com/vi/7E5_TpWgXf8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/LX_kuBHi2yo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7E5_TpWgXf8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/LX_kuBHi2yo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/7E5_TpWgXf8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Nancy Bullard (Mrs. B TV)",
+        "channelTitle": "Cicak Mabor Official",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-07-29T20:33:46Z"
+        "publishTime": "2020-06-06T21:40:05Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "MyL-in9DKD0GSo5g88BvJ7EfkkY",
+      "etag": "KYaaYgC9miPWg0qiXmuX9a8R6vk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ygFMACxhcX0"
+        "videoId": "vhumOLNSSJY"
       },
       "snippet": {
-        "publishedAt": "2024-04-30T15:23:22Z",
-        "channelId": "UCK70H_67YRgeA513ZHA2TIg",
-        "title": "4 Cool Gifts For Science Lovers! #shorts #gifts #cool",
-        "description": "",
+        "publishedAt": "2023-04-07T04:00:12Z",
+        "channelId": "UCI3H1FsjbdqGcLq93ZilV5g",
+        "title": "NF - HAPPY",
+        "description": "Official music video for “HAPPY” by NF from the album HOPE. Subscribe to NFrealmusic on YouTube: https://nf.lnk.to/youtubeID ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ygFMACxhcX0/default.jpg",
+            "url": "https://i.ytimg.com/vi/vhumOLNSSJY/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ygFMACxhcX0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vhumOLNSSJY/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ygFMACxhcX0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/vhumOLNSSJY/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "JaDropping Science",
+        "channelTitle": "NFVEVO",
         "liveBroadcastContent": "none",
-        "publishTime": "2024-04-30T15:23:22Z"
+        "publishTime": "2023-04-07T04:00:12Z"
       }
     }
   ]
