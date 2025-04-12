@@ -1,0 +1,3 @@
+sudo service sshd restart
+
+ssh root@your_server_ip -p 2222
