@@ -1,22 +1,23 @@
-1 - Domain: amazon.com
-	Name-Value Pairs:
-	Name: x-main, Value: en_US
-	Name: session-id, Value: 135-62849502-5618342
-	Name: csm-hit, Value: tb:8VZV13P3X5P33V6NXFZB+s-9PMPXGB7SHH0FG9QD5VX
-	Name: ubid-main, Value: 673-6785944-8901714
+1 - Domain: https://accounts.google.com
+	<input type="hidden" name="continue" value="https://mail.google.com/mail/">
+	<input type="hidden" name="flowName" value="GlifWebSignIn">
+	<input type="hidden" name="flowEntry" value="ServiceLogin">
+	<input type="hidden" name="dsh" value="-1234567890123456789">
+
 Form Method: POST
 
-2 - Domain: wikipedia.org
-	Name-Value Pairs:
-	Name: uselang, Value: en
-	Name: GeoIP, Value: IN
-	Name: WMF-Last-Access, Value: 12-Apr-2025
-	Name: WMF-Last-Access-Global, Value: 12-Apr-2025
+2 - Domain: https://www.facebook.com/login.php
+	<input type="hidden" name="jazoest" value="21010">
+	<input type="hidden" name="lsd" value="AVrl34fS">
+	<input type="hidden" name="lgnrnd" value="013s3nbyXkD">
+	<input type="hidden" name="lgnjs" value="n/a">
+Form Method: POST
 
-3 - Domain: sitepoint.com
-      Name-Value Pairs:
-      Name: "spamCheck", Value: ""
-      Name: "submissionId", Value: "987654"
-      Name: "referrer", Value: "https://sitepoint.com/article"
-      Name: "authKey", Value: "def456ghi"
-      Form Method: POST
+
+3 - Domain: https://www.paypal.com/signin
+	<input type="hidden" name="locale.x" value="en_US">
+	<input type="hidden" name="flowId" value="8d173420ab05e">
+	<input type="hidden" name="country.x" value="US">
+	<input type="hidden" name="fundingSource" value="">
+
+Form Method: POST
