@@ -1,0 +1,11 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode                                                                               
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes                                                                            
+08:13:26.858173 IP bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 1460956871:1460956907,
+ ack 3533861318, win 254, length 36                                                                                                                     
+08:13:26.858344 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 1:37, ack 36, win 513,
+ length 36                                                                                                                                              
+08:13:26.863263 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 37:145, ack 36, win 51
+3, length 108                                                                                                                                           
+08:13:26.863393 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 145:301, ack 36, win 5
+13, length 156                                                                                                                                          
+08:13:26.863446 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 301:369, ack 36, win 5

@@ -1,0 +1,10 @@
+08:20:08.850254 IP bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 1081:1117, ack 15304, win 1023, length 36
+08:20:08.850454 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 15304:15340, ack 1117, win 581, length 36
+08:20:08.871376 IP bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 1117:1153, ack 15340, win 1023, length 36
+08:20:08.871570 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 15340:15376, ack 1153, win 581, length 36
+08:20:08.903396 IP bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 1153:1189, ack 15376, win 1023, length 36
+08:20:08.903594 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 15376:15412, ack 1189, win 581, length 36
+08:20:08.935364 IP bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 1189:1225, ack 15412, win 1023, length 36
+08:20:08.935529 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 15412:15448, ack 1225, win 581, length 36
+08:20:08.945046 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 15448:17204, ack 1225, win 581, length 1756
+08:20:08.953260 IP bras-base-toroon10-grc-66-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [.], ack 17204, win 1023, length 0

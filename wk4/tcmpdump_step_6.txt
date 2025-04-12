@@ -1,0 +1,2 @@
+root@Comp3134-Winter2025-lamp-ubuntu:~# tcpdump -w 0001.pcap -i eth0
+tcpdump: listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes

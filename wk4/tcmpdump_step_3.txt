@@ -1,0 +1,13 @@
+E.....@.@.P^.z/5LE      ....&.I.RW...P....y.....%..IHAL.H3.41W..6j.$.w..........+T..68..+ga.....}...^.-..R....%....n.?...M.P.O.5.....MH..Cmi./.6......5...X.NA.....m.PR..-.......[.bh....IP.......F...f.m..q.iV......c&....sM{.n..^.|....
+08:14:58.947168 IP bras-base-toroon10-grc-67-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 1:37, ack 188, win 1021, length 36
+E..Le`@.t...LE  ..z/5.&..W....I..P...8Q..5...S.P;../.v..Q..`.3..,.E..D.\q....
+08:14:58.947360 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-67-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 188:224, ack 37, win 513, length 36
+E..L..@.@.P..z/5LE      ....&.I..W...P.......L4.s%.."......<.E.]g.G..c....g>6...'
+08:14:58.978115 IP bras-base-toroon10-grc-67-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 37:73, ack 224, win 1021, length 36
+E..Leb@.t...LE  ..z/5.&..W....I.2P....D..d....WX..................?..+..sW.<.
+08:14:58.978301 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-67-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 224:260, ack 73, win 513, length 36
+E..L..@.@.P..z/5LE      ....&.I.2W...P...............D..Z..F.)..o]xM8.....h     .f...
+08:14:59.009247 IP bras-base-toroon10-grc-67-76-69-9-174.dsl.bell.ca.57126 > Comp3134-Winter2025-lamp-ubuntu.ssh: Flags [P.], seq 73:109, ack 260, win 1020, length 36
+E..Lec@.t...LE  ..z/5.&..W....I.VP...XU...q.Cp..MV....H....g)OB(...6.m.8....T
+08:14:59.009424 IP Comp3134-Winter2025-lamp-ubuntu.ssh > bras-base-toroon10-grc-67-76-69-9-174.dsl.bell.ca.57126: Flags [P.], seq 260:296, ack 109, win 513, length 36
+E..L..@.@.P..z/5LE      ....&.I.VW...P.............&4`6..vJ|..-6.S..l.....>....`.
