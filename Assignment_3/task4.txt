@@ -4,4 +4,3 @@ HPING 137.184.173.203 (eth0 137.184.173.203): S set, 40 headers + 0 data bytes
 --- 137.184.173.203 hping statistic ---
 1000 packets transmitted, 0 packets received, 100% packet loss
 round-trip min/avg/max = 0.0/0.0/0.0 ms
-root@Comp3134-Winter2025-lamp-ubuntu:~#
