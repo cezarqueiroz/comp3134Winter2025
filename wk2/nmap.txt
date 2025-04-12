@@ -1,0 +1,47 @@
+root@Comp3134-Winter2025-lamp-ubuntu:~# nmap 8.8.8.8                  
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-04-12 08:45 UTC    
+Nmap scan report for dns.google (8.8.8.8)                             
+Host is up (0.0037s latency).                                         
+Not shown: 998 filtered tcp ports (no-response)                       
+PORT    STATE SERVICE                                                 
+53/tcp  open  domain                                                  
+443/tcp open  https                                                   
+                                                                      
+Nmap done: 1 IP address (1 host up) scanned in 4.03 seconds           
+root@Comp3134-Winter2025-lamp-ubuntu:~#                               
+
+
+
+Nmap done: 1 IP address (1 host up) scanned in 4.03 seconds
+root@Comp3134-Winter2025-lamp-ubuntu:~# nmap -p 8080 8.8.8.8
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-04-12 08:46 UTC
+Nmap scan report for dns.google (8.8.8.8)
+Host is up (0.0032s latency).
+
+PORT     STATE    SERVICE
+8080/tcp filtered http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 0.27 seconds
+root@Comp3134-Winter2025-lamp-ubuntu:~#
+
+
+
+Nmap done: 1 IP address (1 host up) scanned in 0.27 seconds
+root@Comp3134-Winter2025-lamp-ubuntu:~# nmap -p 8000 50000 8.8.8.8
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-04-12 08:47 UTC
+Nmap scan report for dns.google (8.8.8.8)
+Host is up (0.0050s latency).
+
+PORT     STATE    SERVICE
+8000/tcp filtered http-alt
+
+Nmap done: 2 IP addresses (1 host up) scanned in 1.46 seconds
+root@Comp3134-Winter2025-lamp-ubuntu:~#
+
+
+Nmap done: 2 IP addresses (1 host up) scanned in 1.46 seconds
+root@Comp3134-Winter2025-lamp-ubuntu:~# nmap -F 7.7.7.7
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-04-12 08:48 UTC
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.05 seconds
+root@Comp3134-Winter2025-lamp-ubuntu:~#

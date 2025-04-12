@@ -1,0 +1,5 @@
+whois google.com
+whois openai.com
+whois github.com
+whois wikipedia.org
+whois microsoft.com
