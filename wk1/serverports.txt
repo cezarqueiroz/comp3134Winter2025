@@ -1,0 +1,33 @@
+1 - A server port is a number used to identify specific services on a server.
+
+2 - The port range is from 0 to 65535, split into:
+
+0-1023: Well-known ports
+
+1024-49151: Registered ports
+
+49152-65535: Dynamic/private ports
+
+3 - 16 bits, allowing values from 0 to 65535.
+
+4 - 
+
+80 - HTTP
+
+443 - HTTPS
+
+21 - FTP
+
+22 - SSH
+
+25 - SMTP
+
+110 - POP3
+
+143 - IMAP
+
+53 - DNS
+
+3306 - MySQL
+
+5432 - PostgreSQL
