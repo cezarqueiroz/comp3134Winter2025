@@ -1,5 +1,5 @@
 C:\Users\cezar
-λ curl.exe -G "https://www.googleapis.com/youtube/v3/search" -d "part=snippet" -d "q=HAPPY" -d "type=video" -d "key=AIzaSyCzyvpdIksn77HgffTXGEpkjgi7FUFv4Is"
+λ curl.exe -G "https://www.googleapis.com/youtube/v3/search" -d "part=snippet" -d "q=HAPPY" -d "type=video" -d "key=......XGEpkjgi7FUFv4Is"
 {
   "kind": "youtube#searchListResponse",
   "etag": "W50JE7k0zjmcVhjTMrA7Q1IBZuo",
